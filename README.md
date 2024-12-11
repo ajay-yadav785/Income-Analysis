@@ -1,8 +1,8 @@
-##Sales-Analysis Overview
+##Sales-Analysis Overview:
    This repository contains code and analysis for a data-driven project focused on enhancing customer experience and improving sales performance. The analysis includes data 
    cleaning, exploratory data analysis (EDA), and the identification of key insights related to delayed payments and profit sources.
 
-##Key Activities
+##Key Activities:
   .Data Cleaning and Manipulation
    Ensured dataset accuracy and consistency for reliable analysis using various data cleaning techniques (e.g., handling missing values, outlier removal, data 
    transformation).
